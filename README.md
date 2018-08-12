@@ -20,4 +20,4 @@ python3 vcfparser.py --vcf {vcf filename}
 python3 vcfparser.py --vcf "Challenge_data (1).vcf"
 
 Output
-annotated.{vcf filename}.csv
+annotated.Challenge_data (1).csv
