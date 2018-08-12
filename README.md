@@ -13,11 +13,11 @@ The python script parses out the position, alternate alleles at each position. I
    c) argparse (for passing inputs from bash into python)
    d) time (calculating execution time)
 
-## Example
+## Syntax
 python3 vcfparser.py --vcf {vcf filename}
 
-## Syntax
+## Example
 python3 vcfparser.py --vcf "Challenge_data (1).vcf"
 
-## Output
+Output
 annotated.{vcf filename}.csv
