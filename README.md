@@ -19,5 +19,5 @@ python3 vcfparser.py --vcf {vcf filename}
 ## Example
 python3 vcfparser.py --vcf "Challenge_data (1).vcf"
 
-Output
+Output:
 annotated.Challenge_data (1).csv
